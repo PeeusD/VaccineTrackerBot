@@ -3,6 +3,8 @@
 
 ## This is vaccine tacker which provides you the results using your pin number.
 
+## How it works?
+
 ### Sending "/start"  command to start the vaccine bot
 ![alt text](https://github.com/PeeusD/VaccineTrackerBot/blob/main/ReadmeIMG/Capture1.PNG?raw=true)
 
