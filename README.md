@@ -2,7 +2,7 @@
 ![xxx](https://user-images.githubusercontent.com/72473589/124374409-9c576b00-dcb8-11eb-9a7d-97d503bf51ac.jpg)
 
 ## This is vaccine tacker which provides you the results using your pin number.
-
+### API used- Govt. COVID Vaccine API provided by the health ministry. 
 ## How it works?
 
 ### Sending "/start"  command to start the vaccine bot
